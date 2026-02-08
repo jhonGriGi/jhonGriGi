@@ -1,6 +1,6 @@
 # 💻 Jhon Darwin Grisales Giraldo - Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/jhon-darwin-grisales-giraldo-923a071b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/jhon-darwin-grisales-giraldo-923a071b1)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/jhonGriGi)
 [![NPM](https://img.shields.io/badge/NPM-Package-red)](https://www.npmjs.com/~byzobbs)
 
